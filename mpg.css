@@ -12,7 +12,7 @@ main {
     padding: 0 2em 1em;
 }
 h1 {
-	color: blue;
+	color: rgb(255, 94, 0);
 }
 label {
 	float: left;
