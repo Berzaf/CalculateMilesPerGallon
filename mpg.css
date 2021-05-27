@@ -6,7 +6,7 @@ body {
     background-color: white;
     margin: 0 auto;
     width: 500px;
-    border: 3px solid blue;
+    border: 3px solid rgb(255, 94, 0);
 }
 main {
     padding: 0 2em 1em;
